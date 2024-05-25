@@ -1,0 +1,1 @@
+This is a combination of two famous games the ball-brick game and the space ping-pong. This project was a practice of storing and graphics for me. This project is written before I worked with OOP so the follows a basic logic-graphic model. 
