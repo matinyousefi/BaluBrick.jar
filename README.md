@@ -1,1 +1,1 @@
-This is a combination of two famous games the ball-brick game and the space ping-pong. This project was a practice of data storage and graphics for me. This project is written before I worked with OOP so it follows an elementary logic-graphic model. 
+![BaluPicLow](https://github.com/matinyousefi/BaluBrick.jar/assets/61929170/6f6fd1ff-6a79-49e6-a96f-f94f01592f7a)
